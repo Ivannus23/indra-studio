@@ -1,7 +1,0 @@
-<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="indraFaviconTitle" role="img">
-  <title id="indraFaviconTitle">Indra Studio favicon</title>
-  <!-- Fondo: cuadrado redondeado -->
-  <rect x="6" y="6" width="52" height="52" rx="14" fill="#0EA5E9"/>
-  <!-- Rayo / I -->
-  <path d="M30 14 H34 L32 26 H40 L28 50 L30 36 H24 Z" fill="#020617"/>
-</svg>
